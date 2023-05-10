@@ -7,7 +7,9 @@ Hi 👋 My name is Viktor
 
 - :mailbox:How to reach me: <a href="https://t.me/nek0samura1"><img src="https://img.shields.io/badge/-Telegram-blue"></img></a>
 
-
+<div>
+  <img src="https://www.codewars.com/users/ghoul40yo/badges/large"></img>
+</div>
 
 ### Skills
 
@@ -25,9 +27,7 @@ Hi 👋 My name is Viktor
 
 
 ---
-<div>
-<img src="https://www.codewars.com/users/ghoul40yo/badges/large"></img>
-</div>
+
 
 ### Socials
 
