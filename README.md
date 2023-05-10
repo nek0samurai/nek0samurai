@@ -1,6 +1,13 @@
 
 Hi 👋 My name is Viktor
 =======================
+- :baby: I’m a Junior Frontend Developer.
+
+- :star_struck: Im in love with React.
+
+- :mailbox:How to reach me: https://img.shields.io/badge/-Telegram-blue
+
+
 
 ### Skills
 
