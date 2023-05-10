@@ -5,7 +5,7 @@ Hi 👋 My name is Viktor
 
 - :star_struck: Im in love with React.
 
-- :mailbox:How to reach me: https://img.shields.io/badge/-Telegram-blue
+- :mailbox:How to reach me: <img src="https://img.shields.io/badge/-Telegram-blue"></img>
 
 
 
