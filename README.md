@@ -1,20 +1,26 @@
 
 Hi 👋 My name is Viktor
 =======================
-- :baby: I’m a Junior Frontend Developer.
-
-- :star_struck: Im in love with React.
+-  I’m a Frontend Developer.
 
 - :mailbox:How to reach me: <a href="https://t.me/nek0samura1"><img src="https://img.shields.io/badge/-Telegram-blue"></img></a>
 
-<div>
-  <img src="https://www.codewars.com/users/ghoul40yo/badges/large"></img>
-</div>
+### Core Stack
+- Angular
+- TypeScript
+- RxJS
 
-### Skills
+## Additional Experience
+- JavaScript (ES6+)
+- C#
+- Unity
+- HTML5, CSS3
+- React
+- Redux
+- Git
 
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -24,7 +30,7 @@ Hi 👋 My name is Viktor
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+ -->
 
 ---
 
